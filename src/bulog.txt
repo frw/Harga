@@ -1,0 +1,13 @@
+(17/10/12)
+(24/10/12)
+Cianjur Kepala	11.000	11.000
+Cianjur Slyp	9.900	9.900
+Setra	9.400	9.300
+Saigon	9.000	9.000
+Muncul I	8.400	8.400
+Muncul II	7.700	7.700
+Muncul III	7.300	7.300
+IR 64 - I	8.200	8.200
+IR 64 - II	7.700	7.700
+IR 64 - III	7.300	7.300
+IR 42	8.700	8.700
